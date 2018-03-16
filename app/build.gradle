@@ -30,5 +30,5 @@ dependencies {
     compile 'com.google.android.gms:play-services-wallet:11.0.2'
     compile 'com.squareup.okhttp3:okhttp:3.9.0'
     testCompile 'junit:junit:4.12'
-    compile project(':oppwa.mobile-2.11.0')
+    compile project(':oppwa.mobile-2.14.1')
 }
